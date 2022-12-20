@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Maqueda, el hacker",
+    "section": "",
+    "text": "/* This is a Quarto website.\n*/ To learn more about Quarto websites visit https://quarto.org/docs/websites.\n<!DOCTYPE html>\n\n\n\n\nGetting started with CSS\n\n\n\n\nHello word!\n\n\nAqui hay un enlace a el whitebook. In the text is a span element and also a link.\n\n\nThis is the second paragraph. It contains an emphasized element.\n\n\n\nItem one\n\n\nItem two\n\n\nItem three"
+  }
+]
