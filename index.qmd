@@ -2,11 +2,11 @@
 title: "David Maqueda, el hacker"
 ---
 
-/* This is a Quarto website.
+<!-- /* This is a Quarto website. -->
 
-*/ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- */ To learn more about Quarto websites visit <https://quarto.org/docs/websites>. -->
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -33,4 +33,54 @@ title: "David Maqueda, el hacker"
     </ul>
   </body>
 </html></code>
+
+<div class="container">
+    <div class="circle"></div>
+    <div class="circle"></div>
+    <div class="circle"></div>
+    <div class="shadow"></div>
+    <div class="shadow"></div>
+    <div class="shadow"></div>
+</div>
+
+body {
+  paddimg: 0;
+  margin: 0;
+  width: 100%;
+  background: #45011A
+}
+
+.cointaner {
+  width: 200px;
+  height: 60px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #DFB79E;
+  left: 15%;
+  transform-origin: 50%;
+  animation: circle .5s alternate infinite ease;
+
+}
+
+@keyframes circle {
+  0% {
+    top: 60%px;
+    height: 5px;
+    border-radius: 50px 50px 25px 25px
+    transform: scaleX(1.7);
+
+  }
+  40% {
+    height
+  }
+}
 

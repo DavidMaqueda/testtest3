@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David Maqueda, el hacker",
-    "section": "",
-    "text": "/* This is a Quarto website.\n*/ To learn more about Quarto websites visit https://quarto.org/docs/websites.\n<!DOCTYPE html>\n\n\n\n\nGetting started with CSS\n\n\n\n\nHello word!\n\n\nAqui hay un enlace a el whitebook. In the text is a span element and also a link.\n\n\nThis is the second paragraph. It contains an emphasized element.\n\n\n\nItem one\n\n\nItem two\n\n\nItem three"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Maqueda, el hacker",
+    "section": "",
+    "text": "Getting started with CSS\n\n\n\n\nHello word!\n\n\nAqui hay un enlace a el whitebook. In the text is a span element and also a link.\n\n\nThis is the second paragraph. It contains an emphasized element.\n\n\n\nItem one\n\n\nItem two\n\n\nItem three\n\n\n\n\n\n\n<div class=\"circle\"></div>\n<div class=\"circle\"></div>\n<div class=\"circle\"></div>\n<div class=\"shadow\"></div>\n<div class=\"shadow\"></div>\n<div class=\"shadow\"></div>\n\nbody { paddimg: 0; margin: 0; width: 100%; background: #45011A }\n.cointaner { width: 200px; height: 60px; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }\n.circle { width: 20px; height: 20px; position: absolute; border-radius: 50%; background-color: #DFB79E; left: 15%; transform-origin: 50%; animation: circle .5s alternate infinite ease;\n}\n@keyframes circle { 0% { top: 60%px; height: 5px; border-radius: 50px 50px 25px 25px transform: scaleX(1.7);\n} 40% { height } }"
   }
 ]
