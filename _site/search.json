@@ -11,6 +11,62 @@
     "href": "index.html",
     "title": "David Maqueda, el hacker",
     "section": "",
-    "text": "Getting started with CSS\n\n\n\n\nHello word!\n\n\nAqui hay un enlace a el whitebook. In the text is a span element and also a link.\n\n\nThis is the second paragraph. It contains an emphasized element.\n\n\n\nItem one\n\n\nItem two\n\n\nItem three\n\n\n\n\n\n\n<div class=\"circle\"></div>\n<div class=\"circle\"></div>\n<div class=\"circle\"></div>\n<div class=\"shadow\"></div>\n<div class=\"shadow\"></div>\n<div class=\"shadow\"></div>\n\nbody { paddimg: 0; margin: 0; width: 100%; background: #45011A }\n.cointaner { width: 200px; height: 60px; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }\n.circle { width: 20px; height: 20px; position: absolute; border-radius: 50%; background-color: #DFB79E; left: 15%; transform-origin: 50%; animation: circle .5s alternate infinite ease;\n}\n@keyframes circle { 0% { top: 60%px; height: 5px; border-radius: 50px 50px 25px 25px transform: scaleX(1.7);\n} 40% { height } }\nañado una linea de prueba"
+    "text": "Getting started with CSS\n\n\n\n\nTEATRO PARA ROBOTS\n\n\n¡Bienvenidos a nuestra página web en construcción! Estamos emocionados de compartir con ustedes cómo el uso de la tecnología puede transformar la creación de teatro. Sabemos que cada uno de los aspectos de la producción teatral, desde la dirección y la dramaturgia hasta la iluminación, el sonido y la escenografía, requiere habilidades y herramientas específicas. Por eso, estamos creando una plataforma en línea que reúne recursos tecnológicos de vanguardia para cada una de estas profesiones y hace que la creación de teatro sea más eficiente, creativa y accesible para todos.\nEn nuestra página, podrán encontrar una variedad de herramientas y soluciones digitales para mejorar su trabajo y su arte. Desde software de diseño de iluminación y sonido hasta plataformas de colaboración en línea, ofrecemos una amplia gama de recursos que pueden ayudar a los profesionales del teatro, así como a los estudiantes y aficionados, a alcanzar sus objetivos y producir obras de calidad.\nEstamos trabajando duro para desarrollar y mejorar nuestra plataforma, y esperamos que puedan unirse a nosotros en esta emocionante aventura tecnológica en la creación de teatro. ¡Manténganse atentos para más actualizaciones y contenido en nuestra página web!\n\n\nDe momento, os introduzco la siguiente lista. Que sera en el futuro, unos links que dirigiran a paginas, con recursos utiles para cada profesion esencial, detro de la creación teatral. Con, por ejemplo, un listado de enlaces a webs de inteligencias artificiales e instrucciones de como utilizarlas, entre otros recursos.\n\n\n\nProfesiones\n\n\nDirección\nDramaturgia\nEscenografia\nIluminación\nSonido\nProduccion\n\n\n\nY aqui, también enlaces mas orientados al proceso de creación del manual, “Teatro para robots”.\n\n\n\nProfesiones\n\n\nDossier\nIA-s\nEscenografia\nIluminación\nSonido\nProduccion"
+  },
+  {
+    "objectID": "Dossier.html",
+    "href": "Dossier.html",
+    "title": "Dossier pre-proyecto",
+    "section": "",
+    "text": "Este fue el resumen de la idea original del manual “teatro para robots”. Como la intencion es documentar el proceso de creacion del mismo, aqui os dejo el pre-proyecto presentado para el TFG.\n\n\n\nPortada\n\n\n\n\n\nPagina 2\n\n\n\n\n\nPagina 3\n\n\n\n\n\nPagina 4"
+  },
+  {
+    "objectID": "listaDeIA-s.html",
+    "href": "listaDeIA-s.html",
+    "title": "Lista de IA’s para la creacion teatral",
+    "section": "",
+    "text": "Marketing de contenidos: uberflip\nGeneración de contenidos: Articoolo\nGeneración de contenidos: Buzzsumo\nGeneración de contenidos: Jasper\nCreación de contenidos: Concured\nRedes sociales: Cortex\nEmail marketing: Phrasee\nEmail marketing: Persado\nPublicidad online: Adext AI\nGeneración de clientes potenciales: Node\nVideomarketing y redes sociales: Lumen5\nChatbots: Liveperson\nDesarrollo web: Wix ADI\nToma de decisiones: Rapid Miner\nAlineamiento de contenido: Acrolinx\nInfluencers: IMAI\nEmail marketing: Seventh Sense"
+  },
+  {
+    "objectID": "Sonido.html",
+    "href": "Sonido.html",
+    "title": "Sonido",
+    "section": "",
+    "text": "Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la Sonido.\nDespués una lista de recursos y una explicación de como funciona cada uno."
+  },
+  {
+    "objectID": "Iluminacion.html",
+    "href": "Iluminacion.html",
+    "title": "Dirección",
+    "section": "",
+    "text": "Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la Iluminación.\nDespués una lista de recursos y una explicación de como funciona cada uno."
+  },
+  {
+    "objectID": "Direccion.html",
+    "href": "Direccion.html",
+    "title": "Dirección",
+    "section": "",
+    "text": "Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la dirección.\nDespués una lista de recursos y una explicación de como funciona cada uno."
+  },
+  {
+    "objectID": "Dramaturgia.html",
+    "href": "Dramaturgia.html",
+    "title": "Dramaturgia",
+    "section": "",
+    "text": "Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la Dramaturgia.\nDespués una lista de recursos y una explicación de como funciona cada uno."
+  },
+  {
+    "objectID": "Bibliografia.html",
+    "href": "Bibliografia.html",
+    "title": "Bibliografia del manual: Teatro para robots",
+    "section": "",
+    "text": "Aqui habra una lista de libros y citas utilizados en la construccion del manual."
+  },
+  {
+    "objectID": "produccion.html",
+    "href": "produccion.html",
+    "title": "Producción",
+    "section": "",
+    "text": "Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la producción.\nDespués una lista de recursos y una explicación de como funciona cada uno.\ntambien puede que acabe conteniendo una propuesta de de app a desarrollar o en ultima instancia, la app, misma."
   }
 ]

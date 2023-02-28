@@ -14,75 +14,83 @@ title: "David Maqueda, el hacker"
   </head>
 
   <body>
-    <h1>Hello word!</h1>
+    <h1>TEATRO PARA ROBOTS</h1>
 
     <p>
-      Aqui hay un enlace a el whitebook. In the text is a
-      <span>span element</span> and also a
-      <a href="https://docs.google.com/spreadsheets/d/1K5wMOaKcmWsXF3piyMUGr4rNPr42oOBbqZ_9OgifChk/edit#gid=84195158">link</a>.
+     ¡Bienvenidos a nuestra página web en construcción! Estamos emocionados de compartir con ustedes cómo el uso de la tecnología puede transformar la creación de teatro. Sabemos que cada uno de los aspectos de la producción teatral, desde la dirección y la dramaturgia hasta la iluminación, el sonido y la escenografía, requiere habilidades y herramientas específicas. Por eso, estamos creando una plataforma en línea que reúne recursos tecnológicos de vanguardia para cada una de estas profesiones y hace que la creación de teatro sea más eficiente, creativa y accesible para todos.
+
+      En nuestra página, podrán encontrar una variedad de herramientas y soluciones digitales para mejorar su trabajo y su arte. Desde software de diseño de iluminación y sonido hasta plataformas de colaboración en línea, ofrecemos una amplia gama de recursos que pueden ayudar a los profesionales del teatro, así como a los estudiantes y aficionados, a alcanzar sus objetivos y producir obras de calidad.
+
+      Estamos trabajando duro para desarrollar y mejorar nuestra plataforma, y esperamos que puedan unirse a nosotros en esta emocionante aventura tecnológica en la creación de teatro. ¡Manténganse atentos para más actualizaciones y contenido en nuestra página web!
+
     </p>
 
     <p>
-      This is the second paragraph. It contains an <em>emphasized</em> element.
+      De momento, os introduzco la siguiente lista. Que sera en el futuro, unos links que dirigiran a paginas, con recursos utiles para cada profesion esencial, detro de la creación teatral. Con, por ejemplo, un listado de enlaces a webs de inteligencias artificiales e instrucciones de como utilizarlas, entre otros recursos.
     </p>
+<details>
+<summary>Profesiones</summary>
 
+- [Dirección](/Direccion.qmd)
+- [Dramaturgia](/Dramaturgia.qmd)
+- [Escenografia](/Escenografia.qmd)
+- [Iluminación](/Iluminacion.qmd)
+- [Sonido](/Sonido.qmd)
+- [Produccion](/produccion.qmd)
+
+</details>
+
+   <p>
+      Y aqui, también enlaces mas orientados al proceso de creación del manual, "Teatro para robots". 
+  </p>
+
+  <details>
+<summary>Profesiones</summary>
+
+- [Dossier](/Dossier.qmd)
+- [IA-s](/listaDeIA-s.qmd)
+- [Escenografia](/Escenografia.qmd)
+- [Iluminación](/Iluminacion.qmd)
+- [Sonido](/Sonido.qmd)
+- [Produccion](/produccion.qmd)
+
+</details>
+
+<!-- como hacer lista con html: 
     <ul>
-      <li>Item <span>one</span></li>
-      <li>Item two</li>
-      <li>Item <em>three</em></li>
+      <li>Item <span>Dramaturgia</span></li>
+      <li>Item Dirección</li>
+      <li>Item Iluminación</li>
+      <li>Item <span>Sonido</span></li>
+      <li>Item Escenografia</li>
     </ul>
-  </body>
-</html></code>
+  </body> -->
 
-<div class="container">
-    <div class="circle"></div>
-    <div class="circle"></div>
-    <div class="circle"></div>
-    <div class="shadow"></div>
-    <div class="shadow"></div>
-    <div class="shadow"></div>
-</div>
+</html>
 
-body {
-  paddimg: 0;
-  margin: 0;
-  width: 100%;
-  background: #45011A
-}
+<!-- esta prueba no funciona :
+---
+paginate: true
+---
 
-.cointaner {
-  width: 200px;
-  height: 60px;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
+![Portada](imagenesTFG/Portada.png)
 
-.circle {
-  width: 20px;
-  height: 20px;
-  position: absolute;
-  border-radius: 50%;
-  background-color: #DFB79E;
-  left: 15%;
-  transform-origin: 50%;
-  animation: circle .5s alternate infinite ease;
+![Pagina 2](imagenesTFG/pagina1.png)
 
-}
+![Pagina 3](imagenesTFG/Pagina2.png)
 
-@keyframes circle {
-  0% {
-    top: 60%px;
-    height: 5px;
-    border-radius: 50px 50px 25px 25px
-    transform: scaleX(1.7);
+![Pagina 4](imagenesTFG/Final.png)
 
-  }
-  40% {
-    height
-  }
-}
+---
+transitions:
+  - slide:
+      direction: left
+  - slide:
+      direction: left, right
+  - slide:
+      direction: left, right
+  - slide:
+      direction: right
+---
 
-añado una linea de prueba
-
+-->

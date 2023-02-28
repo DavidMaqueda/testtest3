@@ -1,0 +1,21 @@
+---
+title: "Lista de IA's para la creacion teatral"
+---
+
+- Marketing de contenidos: [uberflip](<https://www.uberflip.com/>)
+- Generación de contenidos: [Articoolo](http://articoolo.com/)
+- Generación de contenidos: [Buzzsumo](https://buzzsumo.com/)
+- Generación de contenidos: [Jasper](https://www.jasper.ai/)
+- Creación de contenidos: [Concured](https://concured.com/)
+- Redes sociales: Cortex
+- Email marketing: Phrasee
+- Email marketing: Persado
+- Publicidad online: Adext AI
+- Generación de clientes potenciales: Node
+- Videomarketing y redes sociales: Lumen5
+- Chatbots: Liveperson
+- Desarrollo web: Wix ADI
+- Toma de decisiones: Rapid Miner
+- Alineamiento de contenido: Acrolinx
+- Influencers: IMAI
+- Email marketing: Seventh Sense

@@ -1,0 +1,13 @@
+---
+title: "Dossier pre-proyecto"
+---
+Este fue el resumen de la idea original del manual "teatro para robots". Como la intencion es documentar el proceso de creacion del mismo, aqui os dejo el pre-proyecto presentado para el TFG.
+
+![Portada](imagenesTFG/Portada.png)
+
+![Pagina 2](imagenesTFG/pagina1.png)
+
+![Pagina 3](imagenesTFG/Pagina2.png)
+
+![Pagina 4](imagenesTFG/Final.png)
+

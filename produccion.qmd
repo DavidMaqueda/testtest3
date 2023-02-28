@@ -1,0 +1,9 @@
+---
+title: "Producción"
+---
+
+Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la producción.
+
+Después una lista de recursos y una explicación de como funciona cada uno.
+
+tambien puede que acabe conteniendo una propuesta de de app a desarrollar o en ultima instancia, la app, misma.
