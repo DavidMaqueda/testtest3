@@ -2,8 +2,25 @@
 title: "Producción"
 ---
 
-Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la producción.
+<!--Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la producción.
 
-Después una lista de recursos y una explicación de como funciona cada uno.
+Después una lista de funciones a realizar que se entienden propias de esta profesion. Que problemas se suelen encontrar en esta categoria y unos titulares de como la tecnologia a avanzado explorando en estos campos y por ultimo una lista de recursos que pueden solucionar estos problemas de manera mas eficiente y una explicación de como funciona cada uno de estos recursos. -->
 
-tambien puede que acabe conteniendo una propuesta de de app a desarrollar o en ultima instancia, la app, misma.
+
+<!-- tambien puede que acabe conteniendo una propuesta de de app a desarrollar o en ultima instancia, la app, misma. -->
+
+[make](www.make.com)
+
+Automatizador de tareas:
+
+Por ejemplo puede notificar a tu grupo de telegram, cada vez que anyadas o modifiques una tarea en google calendar. De manera que todos pueden ver un nuevo bolo acordado o la actualización de la misma, ya sea por que se concreten mas datos sobre el bolo o por ejemplo que se cancele o se amplíe.
+
+Lo mismo también sucedería con cada google forms
+
+Te informa cada vez que recibas un e-mail de una fuente especificada. Esto es muy util si creas una cuenta especifica para cada companyia con un objetivo muy concreto y tu propio grupo de telegram.    De este modo cada vez que recibas un email a esa cuenta especifica sabras que son del objetivo definido, por ejemplo, ofertar tu espectáculo. Así, cada mensaje de telegram que recibas en este grupo de producción, sabras que es en respuesta de el\los espectáculos que estas ofertando.
+
+Del mismo modo también puedes añadir cada email recibido a una base de datos. Con esto, es mucho mas rápido, actualizar los procesos en los que están cada negociación. Por ejemplo, de pendiente de respuesta por parte del teatro, a pendiente de respuesta de la producción. Incluso, si trabajas por ejemplo, con trello, podrías automatizar otro proceso, en el que cada vez que cambie el estado a pendiente de respuesta de la producción se te cree una nueva tarjeta de tarea, en tu pizarra de trello. O que genere una tarjeta de trello también, cada vez que recibes un mensaje en el grupo de telegram especifico.
+
+Automatizar emails recordatorios cada vez que vaya ocurrir un evento. Ejemplo, Companyia, recordad que la semana que viene ( día X ) tenemos un funcion en X pueblo. Os recordamos que el punto de encuentro sera en X sitio a las X horas. Mucha mierda!
+
+Y así un largo etcetera de automatizaciones de correos, actualizaciones de estado y comunicaciones con tu equipo. Y todo sin tener que saber nada de programación, solo necesitas decir que aplicaciones quieres vincular, que es lo que quieres que detecte, y la acción a realizar cada vez que detecte aquello deseado en tus redes y aplicaciones.

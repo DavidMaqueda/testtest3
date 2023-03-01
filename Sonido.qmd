@@ -2,6 +2,15 @@
 title: "Sonido"
 ---
 
-Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la Sonido.
+<!-- Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la Sonido.
 
-Después una lista de recursos y una explicación de como funciona cada uno.
+Después una lista de funciones a realizar que se entienden propias de esta profesion. Que problemas se suelen encontrar en esta categoria y unos titulares de como la tecnologia a avanzado explorando en estos campos y por ultimo una lista de recursos que pueden solucionar estos problemas de manera mas eficiente y una explicación de como funciona cada uno de estos recursos. -->-->
+
+[boomy](https://boomy.com/)
+
+Tan simple como registrarte, elegir el estilo de música y darle a crear.
+A partir de aquí se abre una ventana, con una primera version de la canción generada que puedes escuchar y descartar, guardar o modificar. Si decides modificar, puedes añadir Vocal, o editar la composición o la producción. 
+Anadir el vocal permite, o añadir tu voz, subir un archivo .wav con la voz registrada o que te la genere automáticamente.
+Editar la composición te da la posibilidad de cambiar el tempo, o de cambiar la intensidad de la instrumentación	
+La edición de la producción simplemente te da la opcion de elegir entre 12 moldes de producción preestablecidos, sin posibilidad de personalización mas profunda.
+Aun con solo estas tres opciones de edición, el resultado final logra ser muy distinto según los parámetros que modifiques.

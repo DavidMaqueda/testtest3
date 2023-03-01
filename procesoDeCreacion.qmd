@@ -1,0 +1,26 @@
+---
+title: "Proceso de creación del manual de TPR"
+---
+
+<!-- Aqui habra una introducción a la metodologia SCRUM, y una division por Sprints del resultado obtenido, cada dos semanas -->
+
+<!-- Ya se puede empezar a documentar el Sprint 0, que incluye el pre-proyecto. Y las herramientas utilizadas para generarlo -->
+
+<!-- Para documentar el Sprint 0, justificar el pre-proyecto como el Sprint goal, el proceso, como Sprints que aporten valor desde cada entrega, y el acercamiento por circulos, para entender el problema y dividirlo en problemas mas pequeños hasta concretarlo en microtareas resolubles. Explicar las fases de pensar y ejecutar. Y en todo caso, cada vez que surgen nuevas ideas, se añaden al product backlog para decidir cada inicio de Sprint si se añaden al sprint goal o se descartan. -->
+
+La metodología Scrum es un marco de trabajo ágil que se utiliza en la gestión de proyectos para mejorar la eficiencia y la eficacia del equipo en la consecución de objetivos. Si bien fue diseñado para la gestión de proyectos de software, sus principios se pueden aplicar a una amplia gama de proyectos, incluyendo la creación de un espectáculo teatral.
+
+A continuación, te presento algunos de los beneficios que puede aportar la metodología Scrum en la creación de un espectáculo teatral:
+
+    Enfoque en objetivos concretos: Scrum se centra en objetivos específicos y medibles. En el caso de un espectáculo teatral, esto podría traducirse en definir objetivos claros para cada fase de producción, como el diseño de escenografía, la selección del elenco, la elaboración de guion, la planificación de ensayos, entre otros.
+
+    Trabajo en equipo: Scrum fomenta el trabajo en equipo y la colaboración constante. En el caso de la creación de un espectáculo teatral, esto se puede traducir en la asignación de tareas específicas a los miembros del equipo y en la realización de reuniones diarias para discutir los avances y los obstáculos.
+
+    Adaptabilidad y flexibilidad: Scrum es un marco de trabajo flexible que permite adaptarse a cambios y mejoras constantes. En la creación de un espectáculo teatral, esto se traduce en la capacidad de hacer ajustes en el guion, en la escenografía, en el vestuario, etc. en función de los resultados obtenidos en los ensayos.
+
+    Entregables incrementales: Scrum se enfoca en entregables incrementales y frecuentes, lo que permite tener un feedback temprano sobre el trabajo realizado y hacer mejoras constantes. En el caso de la creación de un espectáculo teatral, esto se traduciría en la realización de ensayos abiertos al público para obtener retroalimentación y ajustar el espectáculo en consecuencia.
+
+En resumen, la metodología Scrum puede ser muy útil en la creación de un espectáculo teatral, ya que se enfoca en objetivos concretos, fomenta el trabajo en equipo, es adaptable y flexible, y se enfoca en entregables incrementales y frecuentes.
+
+
+

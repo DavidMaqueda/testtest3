@@ -16,14 +16,46 @@ title: "David Maqueda, el hacker"
   <body>
     <h1>TEATRO PARA ROBOTS</h1>
 
-    <p>
+   <!-- <p>
      ¡Bienvenidos a nuestra página web en construcción! Estamos emocionados de compartir con ustedes cómo el uso de la tecnología puede transformar la creación de teatro. Sabemos que cada uno de los aspectos de la producción teatral, desde la dirección y la dramaturgia hasta la iluminación, el sonido y la escenografía, requiere habilidades y herramientas específicas. Por eso, estamos creando una plataforma en línea que reúne recursos tecnológicos de vanguardia para cada una de estas profesiones y hace que la creación de teatro sea más eficiente, creativa y accesible para todos.
 
       En nuestra página, podrán encontrar una variedad de herramientas y soluciones digitales para mejorar su trabajo y su arte. Desde software de diseño de iluminación y sonido hasta plataformas de colaboración en línea, ofrecemos una amplia gama de recursos que pueden ayudar a los profesionales del teatro, así como a los estudiantes y aficionados, a alcanzar sus objetivos y producir obras de calidad.
 
       Estamos trabajando duro para desarrollar y mejorar nuestra plataforma, y esperamos que puedan unirse a nosotros en esta emocionante aventura tecnológica en la creación de teatro. ¡Manténganse atentos para más actualizaciones y contenido en nuestra página web!
 
-    </p>
+    </p> -->
+
+:::{.callout-important}
+
+Introducción al Manual, "teatro para robots"
+
+    ¡Bienvenidos al manual de teatro del futuro! Soy ChatGPT, una inteligencia artificial diseñada para ayudarte a mejorar tus habilidades teatrales en la era digital. Estoy aquí para hablarles sobre la importancia de incorporar tecnologías modernas en el teatro, y cómo este manual puede ayudar a los jóvenes y a cualquier persona interesada en la creación teatral a adaptarse a las nuevas tecnologías y herramientas digitales.
+
+    Es importante destacar la necesidad de una adaptación del teatro a las tecnologías modernas para mantener su relevancia en un mundo cada vez más tecnológico. La filosofía y el teatro han sido dos campos estrechamente relacionados desde hace mucho tiempo, y hoy en día, la filosofía del teatro está cambiando para adaptarse a las tecnologías modernas.
+    
+    El concepto de obsolescencia programada es particularmente relevante en este sentido, ya que nos recuerda que la tecnología siempre avanza y que lo que es relevante hoy puede ser obsoleto mañana. Por lo tanto, es importante que el teatro abrace la tecnología para mantener su relevancia y atraer nuevas audiencias. Además, los métodos de trabajo ágiles, como SCRUM, pueden ayudar a los equipos de teatro a adaptarse rápidamente a los cambios y asegurar que sus espectáculos sean innovadores y emocionantes.
+    
+    Para los jóvenes, la incorporación de tecnología en el teatro puede ayudar a acercar esta forma de arte a su realidad y al futuro que les espera. La ciencia ficción y la tecnología son temas populares entre los jóvenes, y pueden ser incorporados en la creación de nuevas obras de teatro utilizando tecnologías modernas.
+    
+    En cuanto a los beneficios, el uso de tecnologías puede ayudar en la organización del equipo y la coordinación, desde la planificación de ensayos y tareas hasta la comunicación entre los miembros del equipo. Las aplicaciones de gestión de proyectos, como Asana o Trello, pueden ser muy útiles en este sentido.
+    
+    En cuanto a la difusión de los espectáculos, las tecnologías modernas también pueden ser muy beneficiosas. La generación de texto para redes sociales, el uso de imágenes y videos en las publicaciones, e incluso la creación de experiencias de realidad virtual o aumentada para promocionar los espectáculos, son solo algunos ejemplos.
+    
+    Por último, es importante mencionar que las tecnologías modernas también pueden ser muy útiles para la creatividad en el teatro. En la dirección, por ejemplo, las aplicaciones de storyboard y las herramientas de realidad virtual pueden ayudar a visualizar y planificar el espectáculo antes de que se realice. En la dramaturgia, las aplicaciones de escritura pueden ser muy útiles para la organización y la estructura de la historia. En la escenografía, el uso de programas de diseño 3D y la impresión en 3D pueden ayudar a crear decorados más realistas y detallados. En la iluminación, el uso de software de diseño de iluminación puede ayudar a crear efectos más complejos. En el sonido, las aplicaciones de edición y mezcla pueden ayudar a crear una atmósfera más envolvente. Y en la interpretación, el uso de aplicaciones de entrenamiento vocal y de actuación pueden ayudar a mejorar las 
+    habilidades de los actores.
+
+    En resumen, la incorporación de tecnologías modernas en el teatro puede ser muy beneficiosa en muchos aspectos, desde la creatividad hasta la difusión de los espectáculos. Espero que este manual sea de gran ayuda para cualquier persona interesada en crear obras de teatro innovadoras y emocionantes, y estoy emocionada de poder colaborar en este proyecto. ¡Adelante, y que la creatividad no tenga límites!
+
+    Atentamente,
+
+    ChatGPT
+
+
+:::
+
+    
+
+    
 
     <p>
       De momento, os introduzco la siguiente lista. Que sera en el futuro, unos links que dirigiran a paginas, con recursos utiles para cada profesion esencial, detro de la creación teatral. Con, por ejemplo, un listado de enlaces a webs de inteligencias artificiales e instrucciones de como utilizarlas, entre otros recursos.
@@ -45,14 +77,11 @@ title: "David Maqueda, el hacker"
   </p>
 
   <details>
-<summary>Profesiones</summary>
+<summary>Documentación del proceso</summary>
 
 - [Dossier](/Dossier.qmd)
 - [IA-s](/listaDeIA-s.qmd)
-- [Escenografia](/Escenografia.qmd)
-- [Iluminación](/Iluminacion.qmd)
-- [Sonido](/Sonido.qmd)
-- [Produccion](/produccion.qmd)
+- [Proceso de creacion](/procesoDeCreacion.qmd)
 
 </details>
 

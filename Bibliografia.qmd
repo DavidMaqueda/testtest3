@@ -2,4 +2,4 @@
 title: "Bibliografia del manual: Teatro para robots"
 ---
 
-Aqui habra una lista de libros y citas utilizados en la construccion del manual.
+<!-- Aqui habra una lista de libros y citas utilizados en la construccion del manual. -->
