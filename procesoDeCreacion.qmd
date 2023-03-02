@@ -22,5 +22,14 @@ A continuación, te presento algunos de los beneficios que puede aportar la meto
 
 En resumen, la metodología Scrum puede ser muy útil en la creación de un espectáculo teatral, ya que se enfoca en objetivos concretos, fomenta el trabajo en equipo, es adaptable y flexible, y se enfoca en entregables incrementales y frecuentes.
 
+Atentamente,
+chatGPT.
+
+:::{.callout-caution}
+
+Aqui vendra una primera documentación con el Sprint 0
+
+:::
+
 
 

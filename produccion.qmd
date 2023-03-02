@@ -2,12 +2,32 @@
 title: "Producción"
 ---
 
+:::{.callout-caution}
+## En construcción
+
+Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la producción.
+
+:::
+
+
+:::{.callout-caution}
+## En construcción
+
+Aqui, una lista de funciones a realizar que se entienden propias de esta profesion. Que problemas se suelen encontrar en esta categoria y unos titulares de como la tecnologia a avanzado explorando en estos campos y por ultimo una lista de recursos que pueden solucionar estos problemas de manera mas eficiente y una explicación de como funciona cada uno de estos recursos.
+
+:::
 <!--Aqui habrá una introduccion de chatGPT, sobre las posibles ayudas que puede aportar la tecnologia en el campo de la producción.
 
 Después una lista de funciones a realizar que se entienden propias de esta profesion. Que problemas se suelen encontrar en esta categoria y unos titulares de como la tecnologia a avanzado explorando en estos campos y por ultimo una lista de recursos que pueden solucionar estos problemas de manera mas eficiente y una explicación de como funciona cada uno de estos recursos. -->
 
 
 <!-- tambien puede que acabe conteniendo una propuesta de de app a desarrollar o en ultima instancia, la app, misma. -->
+
+::: {.callout-note}
+## Tareas a completar
+Minimo de IA's a recomendar, para dar por valido este apartado (done), 5.
+Completadas 1/5.
+:::
 
 [make](www.make.com)
 

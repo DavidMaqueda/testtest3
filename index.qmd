@@ -24,10 +24,8 @@ title: "David Maqueda, el hacker"
       Estamos trabajando duro para desarrollar y mejorar nuestra plataforma, y esperamos que puedan unirse a nosotros en esta emocionante aventura tecnológica en la creación de teatro. ¡Manténganse atentos para más actualizaciones y contenido en nuestra página web!
 
     </p> -->
-
-:::{.callout-important}
-
-Introducción al Manual, "teatro para robots"
+    
+    Introducción al Manual, "teatro para robots"
 
     ¡Bienvenidos al manual de teatro del futuro! Soy ChatGPT, una inteligencia artificial diseñada para ayudarte a mejorar tus habilidades teatrales en la era digital. Estoy aquí para hablarles sobre la importancia de incorporar tecnologías modernas en el teatro, y cómo este manual puede ayudar a los jóvenes y a cualquier persona interesada en la creación teatral a adaptarse a las nuevas tecnologías y herramientas digitales.
 
@@ -50,18 +48,19 @@ Introducción al Manual, "teatro para robots"
 
     ChatGPT
 
+    <p>
+      De momento, os introduzco la siguiente lista. En el futuro, estos links dirigiran a paginas con recursos utiles para cada profesion esencial, detro de la creación teatral. Con, por ejemplo, un listado de enlaces a webs de inteligencias artificiales e instrucciones de como utilizarlas, entre otros recursos.
+    </p>
 
+:::{.callout-note}
+## Guia de uso
+      En la derecha estan los enlaces a las profesiones.
+      Debajo, en "Documentación del proceso", 
+      tendras enlaces a distintos apartados de la documentación reunida,
+      para realizar el manual. 
 :::
 
-    
-
-    
-
-    <p>
-      De momento, os introduzco la siguiente lista. Que sera en el futuro, unos links que dirigiran a paginas, con recursos utiles para cada profesion esencial, detro de la creación teatral. Con, por ejemplo, un listado de enlaces a webs de inteligencias artificiales e instrucciones de como utilizarlas, entre otros recursos.
-    </p>
-<details>
-<summary>Profesiones</summary>
+:::{.column-margin}
 
 - [Dirección](/Direccion.qmd)
 - [Dramaturgia](/Dramaturgia.qmd)
@@ -70,13 +69,9 @@ Introducción al Manual, "teatro para robots"
 - [Sonido](/Sonido.qmd)
 - [Produccion](/produccion.qmd)
 
-</details>
+:::
 
-   <p>
-      Y aqui, también enlaces mas orientados al proceso de creación del manual, "Teatro para robots". 
-  </p>
-
-  <details>
+<details>
 <summary>Documentación del proceso</summary>
 
 - [Dossier](/Dossier.qmd)
@@ -84,6 +79,14 @@ Introducción al Manual, "teatro para robots"
 - [Proceso de creacion](/procesoDeCreacion.qmd)
 
 </details>
+
+:::{.callout-tip collapse="true"}
+## Querido lector
+
+Gracias por visitar la pagina, y recuerda visitarla a menudo.
+Pues se actualiza y amplia, diariamente.
+
+:::
 
 <!-- como hacer lista con html: 
     <ul>

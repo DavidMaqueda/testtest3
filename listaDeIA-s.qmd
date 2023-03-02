@@ -2,6 +2,13 @@
 title: "Lista de IA's para la creacion teatral"
 ---
 
+:::{.callout-warning}
+
+Esta lista es de ejemplo, para entender como funcionara la estructura, y nada mas
+
+:::
+
+
 - Marketing de contenidos: [uberflip](<https://www.uberflip.com/>)
 - Generación de contenidos: [Articoolo](http://articoolo.com/)
 - Generación de contenidos: [Buzzsumo](https://buzzsumo.com/)

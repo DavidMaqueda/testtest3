@@ -1,43 +1,48 @@
 ---
-title: "About"
+title: "Cifo exam"
 ---
 
-About this site
+Este es simplemente un modelo de prueba para mostrar mi capacidad para utilizar los distintos recursos que ofrece Quarto, al tiempo que me sirve a mi como apuntes para el futuro 
 
 
 ::: {.callout-note}
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
+Genera recuadros destacados. tiene estos 5 de base
+`note`, `warning`, `important`, `tip`, y `caution`.
 :::
 
 ::: {.column-margin}
-This is an example of a 'folded' caution callout that can be expanded by the user.
-You can use `collapse="true"` to collapse it by default or `collapse="false"` to make 
-a collapsible callout that is expanded by default.
+Para escribir informacion al lateral
 :::
 
-
-::: {.callout-tip}
-## Tip With Caption
-
-This is an example of a callout with a caption.
-:::
 
 ::: {.callout-caution collapse="true"}
-## Expand To Learn About Collapse
+## Como hacer un callout que se expande
 
-This is an example of a 'folded' caution callout that can be expanded by the user.
-You can use `collapse="true"` to collapse it by default or `collapse="false"` to make 
-a collapsible callout that is expanded by default.
+Para extender o esconder informacion dentro de un callout
 :::
+
+A continuación un primer esquema de como traducir metodologia SCRUM al proceso de creación teatral. Utilizando mermaid.
 
 ```{mermaid}
 flowchart LR
-  A[Hard edge] --> B(Round edge)
-  B --> C{Decision}
-  C --> D[Result one]
-  C --> E[Result two]
-
+  A[Idea del espectaculo] --> B(Problemas a resolver)
+  B --> C{reparto de tareas}
+  C --> D[direccion]
+  C --> E[dramaturgia]
+  C --> F[escenografia]
+  C --> G[iluminacion]
+  C --> H[sonido]
+  C --> I[interpretacion]
+  D --> J[puesta en escena]
+  E --> J[puesta en escena]
+  F --> J[puesta en escena]
+  G --> J[puesta en escena]
+  H --> J[puesta en escena]
+  I --> J[puesta en escena]
+  J --> k[representacion]
+  k --> L[retrospectiva]
+  L --> M[Nueva idea de espectaculo]
+  M --> B
   
   ```
 
