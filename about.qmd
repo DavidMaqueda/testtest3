@@ -47,12 +47,6 @@ flowchart LR
   ```
 
 
-```{ojs}
-let x = 0
-x + 5
-console.log(x)
-```
-
 Y por ultimo, un ejemplo de como importar codigo, y al tiempo ejemplo de como utilizar ojs.
 
 ```{ojs}
