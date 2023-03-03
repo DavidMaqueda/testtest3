@@ -26,9 +26,9 @@ A continuación un primer esquema de como traducir metodologia SCRUM al proceso 
 ```{mermaid}
 flowchart LR
   A[Idea del espectaculo] --> B(Problemas a resolver)
-  B --> C{reparto de tareas}
-  C --> D[direccion]
-  C --> E[dramaturgia]
+  B --> C{autoasignacion de tareas}
+  C --> D[direccion / scrum master]
+  C --> E[dramaturgia / product owner]
   C --> F[escenografia]
   C --> G[iluminacion]
   C --> H[sonido]
@@ -47,3 +47,15 @@ flowchart LR
   ```
 
 
+```{ojs}
+let x = 0
+x + 5
+console.log(x)
+```
+
+Y por ultimo, un ejemplo de como importar codigo, y al tiempo ejemplo de como utilizar ojs.
+
+```{ojs}
+import {image} from "@mbostock/voronoi-stippling"
+image
+```
