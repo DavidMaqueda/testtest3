@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DavidMaqueda.github.io/testtest3/about.html</loc>
-    <lastmod>2023-01-25T08:23:51.232Z</lastmod>
+    <loc>https://DavidMaqueda.github.io/testtest3/Sonido.html</loc>
+    <lastmod>2023-03-03T09:00:29.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/Dossier.html</loc>
+    <lastmod>2023-03-03T09:00:29.592Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/Iluminacion.html</loc>
+    <lastmod>2023-03-03T09:00:29.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/Direccion.html</loc>
+    <lastmod>2023-03-03T09:00:30.132Z</lastmod>
   </url>
   <url>
     <loc>https://DavidMaqueda.github.io/testtest3/index.html</loc>
-    <lastmod>2023-01-25T08:23:51.918Z</lastmod>
+    <lastmod>2023-03-03T09:00:30.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/about.html</loc>
+    <lastmod>2023-03-03T09:00:31.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/Escenografia.html</loc>
+    <lastmod>2023-03-03T09:00:31.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/Dramaturgia.html</loc>
+    <lastmod>2023-03-03T09:00:31.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/listaDeIA-s.html</loc>
+    <lastmod>2023-03-03T09:00:31.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/Bibliografia.html</loc>
+    <lastmod>2023-03-03T09:00:32.036Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/produccion.html</loc>
+    <lastmod>2023-03-03T09:00:32.280Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DavidMaqueda.github.io/testtest3/procesoDeCreacion.html</loc>
+    <lastmod>2023-03-03T09:00:32.516Z</lastmod>
   </url>
 </urlset>
