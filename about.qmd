@@ -47,9 +47,17 @@ flowchart LR
   ```
 
 
-Y por ultimo, un ejemplo de como importar codigo, y al tiempo ejemplo de como utilizar ojs.
+Un ejemplo de como importar codigo, y al tiempo ejemplo de como utilizar ojs.
 
 ```{ojs}
 import {image} from "@mbostock/voronoi-stippling"
 image
 ```
+
+ejemplo de como crear lista de links con nombres:
+
+ Marketing de contenidos: [uberflip](<https://www.uberflip.com/>)
+- Generación de contenidos: [Articoolo](http://articoolo.com/)
+- Generación de contenidos: [Buzzsumo](https://buzzsumo.com/)
+- Generación de contenidos: [Jasper](https://www.jasper.ai/)
+- Creación de contenidos: [Concured](https://concured.com/)
